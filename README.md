@@ -16,9 +16,15 @@ This data analysis project aims to provide insights into the sales performance o
 •	Created a detailed SQL script to generate a dataset for a comprehensive and dynamic sales dashboard involves selecting relevant data and formatting the information for visualization. 
 •	SQL-generated data into Excel and connect it to Tableau for creating a dynamic dashboard 
 •	Explore sales trends over time, identifying seasonality and any long-term patterns. 
-I WILL CRETAE BOTH TABLEU AND EXCEL DASHBOARD FRO THIS PROJECT
 
-### Data Sources
+
+I WILL CRETAE BOTH TABLEU AND EXCEL DASHBOARD FRO THIS PROJECT 
+We need to provide order_id	customers	city	state	order_date	total_units	revenue	product_name	category_name	brand_name	store_name	sales_rep these field are scattered across 9 diff table in bike store database ,so table joins are applied to generate the data 
+for example
+i will get orderid from sale.order ,customer name ,city from sales.cutomer
+revenue and volume from sales.orderitems
+
+
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
