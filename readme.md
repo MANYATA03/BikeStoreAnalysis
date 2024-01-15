@@ -12,4 +12,6 @@ SHOW VARIABLES LIKE 'hostname';
 -- first pivot table -total revenue per year
 
 -- second pivot table  total revenue per month over the years
--- change in second pivot tabble affect changes in first table because of same cache-- solution is to decouple 
+-- change in second pivot tabble affect changes in first table because of same cache-- solution is to decouple
+
+To create chart 
