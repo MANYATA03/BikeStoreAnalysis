@@ -13,5 +13,6 @@ SHOW VARIABLES LIKE 'hostname';
 
 -- second pivot table  total revenue per month over the years
 -- change in second pivot tabble affect changes in first table because of same cache-- solution is to decouple
+![image](https://github.com/MANYATA03/BikeStoreAnalysis/assets/105648428/62c3627c-909b-4956-ac12-c21c9e033cb4)
 
-To create chart 
+To create chart use two of pivot tables and 
