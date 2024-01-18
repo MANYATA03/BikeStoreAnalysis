@@ -17,7 +17,7 @@ SHOW VARIABLES LIKE 'hostname';
 
 To create chart use two of pivot tables and 
 
-for pivot 1 
+for pivot 1 h
 ![image](https://github.com/MANYATA03/BikeStoreAnalysis/assets/105648428/d58fa3c4-be7d-4129-b28b-92a8ea66fd84)
 
 
